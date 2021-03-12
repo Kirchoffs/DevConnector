@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://quan123:quan123@devconnector.y7cjd.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "d8c454afb3f28228ddbac3056a39682f6991e466"
+}
